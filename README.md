@@ -2,7 +2,7 @@
 
 내가 주기적으로 보려고 만든 국내외 기술 블로그 모음
 
-### :fire: tech 글 50개 이상
+### :fire: tech 글 30개 이상
 <table>
     <thead>
         <tr>
@@ -20,16 +20,32 @@
             <td>https://techblog.woowahan.com/</td>
         </tr>
         <tr>
-            <td>카카오엔터프라이즈</td>
-            <td>https://tech.kakaoenterprise.com/</td>
-        </tr>
-        <tr>
             <td>카카오</td>
             <td>https://tech.kakao.com/blog/</td>
         </tr>
         <tr>
+            <td>카카오엔터프라이즈</td>
+            <td>https://tech.kakaoenterprise.com/</td>
+        </tr>
+        <tr>
+            <td>카카오스타일</td>
+            <td>https://devblog.kakaostyle.com</td>
+        </tr>
+        <tr>
             <td>RIDI</td>
             <td>https://www.ridicorp.com/story-category/tech-blog/</td>
+        </tr>
+        <tr>
+            <td>kmong</td>
+            <td>https://blog.kmong.com/tech/home/</td>
+        </tr>
+        <tr>
+            <td>coupang</td>
+            <td>https://medium.com/coupang-engineering/kr/home</td>
+        </tr>
+        <tr>
+            <td>뱅크샐러드</td>
+            <td>https://blog.banksalad.com/tech/</td>
         </tr>
     </tbody>
 </table>
@@ -69,6 +85,10 @@
             <td>29cm</td>
             <td>https://medium.com/29cm</td>
         </tr>
+        <tr>
+            <td>당근마켓</td>
+            <td>https://medium.com/daangn/development/home</td>
+        </tr>
     </tbody>
 </table>
 
@@ -83,8 +103,8 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>야놀자</td>
+            <td>https://yanolja.github.io/</td>
         </tr>
     </tbody>
 </table>
